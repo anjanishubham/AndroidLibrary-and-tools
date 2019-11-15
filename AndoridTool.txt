@@ -1,8 +1,12 @@
 Android Tools
 1. profiler Tools
+2. systrace
+ 
 
 
 
 //Android image and icon
 1. flaticon.com/
-2.https://airbnb.io/lottie/    // animation  
+2.https://airbnb.io/lottie/    // animation 
+
+ 
